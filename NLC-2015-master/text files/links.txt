@@ -1,0 +1,7 @@
+VIRUS
+
+ROOTKIT
+
+SPAM
+
+BOTNET (Boss)

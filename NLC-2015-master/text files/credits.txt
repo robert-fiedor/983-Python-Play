@@ -1,0 +1,18 @@
+NLC 2015, Game and Simulation Project / Presentation
+"Sector Shoot 'em up"
+
+Lebanon High School FBLA chapter
+
+Designed, coded, and created by Nick Jarvis and Nick Wayne
+
+Art:
+    Boss and level art- Nick Wayne
+    Player and Enemies - Nick Jarvis
+
+Music:
+    Killing Bosses - Gumbel
+    pl4y1ng - Rolemusic
+    ayVentura - Rolemusic
+    Death on the Battlefield - Rolemusic
+    Yellow Dust - Rolemusic
+    sawsq - RottenMage SpaceJacked OST

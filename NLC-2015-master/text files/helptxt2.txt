@@ -1,0 +1,20 @@
+~~~HELP~~~
+
+Welcome to Nick and Nick's 2015 National Leadership Conference
+Game and Simulation competition submission - Sector Shoot-em-up!
+
+The game consits of 11 levels, followed by the boss level. At
+the end of each level, you will see a small green circle, which
+you must fly through to proceed to the next level.
+
+The player is controlled by the WASD keys (W for up, S for down,
+A for left, and D for right) and aimed with the mouse cursor. To
+fire simply hold down the left mouse button. 
+
+Your health will be displayed at the bottom left corner, along
+with your score achieved thus far in the game. If your health
+runs out, you will have to restart the level!
+
+Each enemy is based on a different type of malware, and they
+act accordingly. You can read about the real world version of
+each enemy type in the "LINKS" section on the main menu.
