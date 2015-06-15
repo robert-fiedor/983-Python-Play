@@ -7,6 +7,7 @@ from pygame.compat import geterror
 main_dir = os.path.split(os.path.abspath(__file__))[0]
 data_dir = os.path.join(main_dir, 'aaa/data')
 
+
 def load_image(name, colorkey=None):
     fullname = os.path.join(data_dir, name)
     try:
@@ -43,4 +44,3 @@ class Chimp(pygame.sprite.Sprite):
             self.move = -self.move
             newpos = self.rect.move((self.move, 0))
         self.rect = newpos
-

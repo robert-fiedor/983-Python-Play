@@ -11,9 +11,6 @@ data_dir = os.path.join(main_dir, 'data')
 
 from Chimp import *
 
-
-
-
 def main():
     pygame.init()
     screen = pygame.display.set_mode((500, 500))

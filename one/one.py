@@ -15,8 +15,6 @@ from pygame.compat import geterror
 if not pygame.font: print ('Warning, fonts disabled')
 if not pygame.mixer: print ('Warning, sound disabled')
 
-
-
 # functions to create our resources
 def load_image(name, colorkey=None):
     fullname = os.path.join(data_dir, name)
