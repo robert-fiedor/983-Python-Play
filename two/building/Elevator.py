@@ -5,7 +5,7 @@ from pygame.locals import *
 from pygame.compat import geterror
 
 main_dir = os.path.split(os.path.abspath(__file__))[0]
-data_dir = os.path.join(main_dir, 'data')
+data_dir = os.path.join(main_dir, '../data')
 
 
 def load_image(name, colorkey=None):
