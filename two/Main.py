@@ -9,7 +9,7 @@ if not pygame.mixer: print ('Warning, sound disabled')
 main_dir = os.path.split(os.path.abspath(__file__))[0]
 data_dir = os.path.join(main_dir, 'data')
 
-from Chimp import *
+from elevator import *
 
 def main():
     pygame.init()
@@ -26,9 +26,9 @@ def main():
 
     # Prepare Game Objects
     clock = pygame.time.Clock()
-    chimp = Chimp()
+    elevatore = elevator()
     # fist = Fist()
-    allsprites = pygame.sprite.RenderPlain((chimp))
+    allsprites = pygame.sprite.RenderPlain((elevatore))
 
 
     # Main Loop

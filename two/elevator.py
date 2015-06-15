@@ -23,7 +23,7 @@ def load_image(name, colorkey=None):
     return image, image.get_rect()
 
 
-class Chimp(pygame.sprite.Sprite):
+class elevator(pygame.sprite.Sprite):
     def __init__(self):
         pygame.sprite.Sprite.__init__(self)  # call Sprite intializer
         self.image, self.rect = load_image('chimp.bmp', -1)
